@@ -1,0 +1,18 @@
+package program;
+
+public class program {
+
+	public static void main(String[] args) {
+
+		char[] ch = { 'a', 'b', 'c', 'd' };
+
+		String S = new String(ch);
+		System.out.println(S);
+		
+		byte[] b= {110, 111, 114};
+		String S1 = new String(b);
+		
+		System.out.println(S1);
+
+	}
+}
