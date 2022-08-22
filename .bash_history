@@ -50,3 +50,37 @@ sudo apt-get update
 java -version
 mvn --version
 sudo apt-get install -y openjdk-8-jdk
+mvn --version
+mvn archetype:generate
+ls
+ll
+mvn package
+mvn compile
+cd swiggy
+mvn compile
+ls
+ls src
+ls src/main
+ls src/main/java
+ls src/main/java/devops
+ls src/main/java/Devops
+cat src/main/java/Devops/App.java
+git push
+git remote origin https://github.com/yarramasunagauday/Job1.git
+git origin remote https://github.com/yarramasunagauday/Job1.git
+sudo git origin remote https://github.com/yarramasunagauday/Job1.git
+cd..
+cd
+ls
+sudo git origin remote https://github.com/yarramasunagauday/Job1.git
+sudo git remote add origin 4https://github.com/yarramasunagauday/Job1.git
+sudo git remote add origin https://github.com/yarramasunagauday/Job1.git
+git push -u 
+git push -u origin master
+git pull
+git push -u origin master
+ls
+git add .
+git commit -m "Third commit"
+git log --oneline
+git push -u origin master
